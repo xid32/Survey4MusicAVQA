@@ -1,6 +1,6 @@
 # 🎼 Music Performance Audio-Visual Question Answering Requires Specialized Multimodal Designs
 
-Welcome to the companion repository for our position paper on Music Performance Audio-Visual Question Answering (Music AVQA). This repo curates the datasets, benchmark results, and seminal methods surveyed in the paper, and it will be continuously updated as the field evolves. Whether you are reproducing baselines, exploring bias-reduced or robustness-focused splits, or designing new music-specific architectures, you will find ready-to-use links, code pointers, and concise summaries here. We hope this living resource accelerates research on rich, densely layered audio-visual reasoning in musical contexts and sparks fresh ideas for multimodal music understanding.
+This repository accompanies our NeurIPS 2025 position paper on Music Performance Audio-Visual Question Answering (Music AVQA). It provides an overview of key datasets, task formulations, and representative models covered in the paper. In particular, it catalogs the evolution of MUSIC-AVQA benchmarks, summarizes common question types, and provides brief descriptions of representative papers. This resource is intended to support researchers interested in multimodal reasoning under the complex, continuous, and densely layered conditions of musical performance scenarios.
 
 ## Content
 
