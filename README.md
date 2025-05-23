@@ -1,4 +1,4 @@
-# 🎼 Music Performance Audio-Visual Question Answering Requires Specialized Multimodal Designs
+# 🎼 Survey for Music Performance Audio-Visual Question Answering (Survey4MusicAVQA)
 
 This repository accompanies our NeurIPS 2025 position paper submission on Music Performance Audio-Visual Question Answering (Music AVQA). It provides an overview of key datasets, task formulations, and representative models covered in the paper. In particular, it catalogs the evolution of MUSIC-AVQA benchmarks, summarizes common question types, and provides brief descriptions of representative papers. This resource is intended to support researchers interested in multimodal reasoning under the complex, continuous, and densely layered conditions of musical performance scenarios.
 
