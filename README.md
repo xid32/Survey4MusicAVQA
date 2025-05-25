@@ -1,4 +1,4 @@
-# 🎼 A Survey on Music Audio-Visual Question Answering (Music AVQA)
+# 🎼 A Survey for Music Audio-Visual Question Answering (Music AVQA)
 
 This repository provides an overview of Music Performance Audio-Visual Question Answering (Music AVQA), including key datasets, task definitions, and representative models. It catalogs the development of MUSIC-AVQA benchmarks, summarizes common question types, and highlights notable methods in the field. This resource is designed to support researchers exploring multimodal reasoning in the complex and continuous settings of musical performance.
 
