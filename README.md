@@ -11,7 +11,7 @@ This repository provides an overview of Music Performance Audio-Visual Question 
 
 ## Background
 
-Music‐performance scenes span solo performances, ensemble of the same instrument, ensemble of different instruments, and culture-specific groups. Within this setting, Music AVQA questions generally fall into five categories, detailed in the table below.
+Music performance scenes span solo performances, ensemble of the same instrument, ensemble of different instruments, and culture-specific groups. Within this setting, Music AVQA questions generally fall into five categories, detailed in the table below.
 The models listed in [&sect; Methods](#methods) are commonly evaluated on these question types, while ongoing work must still overcome dense-signal, hierarchical-temporal, and cross-modal challenges using the three main music AVQA benchmarks summarised in [&sect; Datasets](#datasets).
 
 | Question Type | Description                                                                                | Example                                                         |
